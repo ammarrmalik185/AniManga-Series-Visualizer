@@ -1,0 +1,75 @@
+{
+  "mal_id": 39247,
+  "url": "https:\/\/myanimelist.net\/anime\/39247\/Kobayashi-san_Chi_no_Maid_Dragon_S",
+  "title": "Kobayashi-san Chi no Maid Dragon S",
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-08T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 8, 2021 to ?"
+  },
+  "duration": "Unknown",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 1009,
+  "members": 160485,
+  "favorites": 1126,
+  "synopsis": "Second season of Kobayashi-san Chi no Maid Dragon.",
+  "premiered": "Summer 2021",
+  "broadcast": "Thursdays at 00:00 (JST)",
+  "related": {
+    "Adaptation": [{
+      "mal_id": 80119,
+      "type": "manga",
+      "name": "Kobayashi-san Chi no Maid Dragon",
+      "url": "https:\/\/myanimelist.net\/manga\/80119\/Kobayashi-san_Chi_no_Maid_Dragon"
+    }],
+    "Prequel": [{
+      "mal_id": 35363,
+      "type": "anime",
+      "name": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+      "url": "https:\/\/myanimelist.net\/anime\/35363\/Kobayashi-san_Chi_no_Maid_Dragon__Valentine_Soshite_Onsen_-_Amari_Kitai_Shinaide_Kudasai"
+    }],
+    "Other": [{
+      "mal_id": 48590,
+      "type": "anime",
+      "name": "Mini Dragon",
+      "url": "https:\/\/myanimelist.net\/anime\/48590\/Mini_Dragon"
+    }]
+  },
+  "genres": [
+    {
+    "mal_id": 36,
+    "type": "anime",
+    "name": "Slice of Life",
+    "url": "https:\/\/myanimelist.net\/anime\/genre\/36\/Slice_of_Life"
+  }, {
+    "mal_id": 4,
+    "type": "anime",
+    "name": "Comedy",
+    "url": "https:\/\/myanimelist.net\/anime\/genre\/4\/Comedy"
+  }, {
+    "mal_id": 10,
+    "type": "anime",
+    "name": "Fantasy",
+    "url": "https:\/\/myanimelist.net\/anime\/genre\/10\/Fantasy"
+  }],
+}
