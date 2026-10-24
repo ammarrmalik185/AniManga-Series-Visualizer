@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "animanga-series-visualizer",
     "public": "public",
     "ignore": [
       "firebase.json",
